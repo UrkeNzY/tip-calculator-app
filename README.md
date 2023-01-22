@@ -31,5 +31,7 @@ ol li #custom-tip::placeholder {
   background-image: url("images/icon-dollar.svg");
 }
 ```
+### Live Website
 
+Check out the live website [here](https://urkenzy.github.io/tip-calculator-app/).
 
